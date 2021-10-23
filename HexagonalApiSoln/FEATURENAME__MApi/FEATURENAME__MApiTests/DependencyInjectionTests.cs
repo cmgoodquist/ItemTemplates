@@ -10,7 +10,7 @@ using System.Linq;
 using System.Reflection;
 using Xunit;
 
-namespace IntegrationTests
+namespace FEATURENAME__MApiTests
 {
     public class DependencyInjectionTests
     {
