@@ -22,6 +22,14 @@
 				"toLower": true
 			},
 			"replaces": "FEATURENAME__ML"
+		},
+		"currentYear": {
+			"type": "generated",
+			"generator": "now",
+			"parameters": {
+				"format": "yyyy"
+			},
+			"replaces": "CURRENTYEAR__M"
 		}
 	}
 }
